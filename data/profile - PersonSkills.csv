@@ -1,0 +1,964 @@
+profileID,skill,skillDescription
+1,BitBucket,3+ years
+1,Excel,1+ years
+1,PHP,2+ years
+1,JavaScript,8+ years
+1,GIT,8+ years
+1,Jira,6+ years
+2,Tableau,3+ years
+3,react,1+ years
+3,Distributed system,4+ years
+3,Load balance,9+ years
+3,Excel,7+ years
+4,Docker,1+ years
+4,AI,5+ years
+4,Linux,10+ years
+4,Excel,5+ years
+5,Jira,9+ years
+5,Project management,7+ years
+5,ML,2+ years
+6,Project management,8+ years
+6,REST,1+ years
+6,TESTING,7+ years
+6,GIT,9+ years
+6,PHP,4+ years
+6,redux,8+ years
+7,Docker,10+ years
+7,Kubernetes,10+ years
+7,GIT,3+ years
+7,Redis,7+ years
+8,Project management,5+ years
+8,Hadoop,6+ years
+8,Hibernate,10+ years
+9,ML,7+ years
+10,Azure DevOps,7+ years
+10,Redis,8+ years
+10,AI,6+ years
+11,Jira,7+ years
+11,Bootstrap,2+ years
+11,Docker,3+ years
+12,C#,4+ years
+12,AI,0+ years
+12,Project management,3+ years
+12,Hadoop,5+ years
+13,Project management,5+ years
+13,CSS,3+ years
+13,Docker,4+ years
+14,TESTING,10+ years
+14,PHP,7+ years
+14,REST,2+ years
+14,Redis,10+ years
+14,Project management,2+ years
+14,Hibernate,5+ years
+14,ANDROID,5+ years
+15,JavaScript,5+ years
+15,PHP,1+ years
+15,Excel,6+ years
+15,BitBucket,8+ years
+15,Load balance,3+ years
+15,UX Design,10+ years
+16,react,0+ years
+16,SOLARIS,3+ years
+16,HTML,8+ years
+16,ASP.NET,6+ years
+16,C,9+ years
+17,Redis,4+ years
+17,ML,4+ years
+17,MySQL,4+ years
+17,Devexpress,2+ years
+17,Azure DevOps,8+ years
+18,HTML,10+ years
+18,C#,4+ years
+18,TESTING,6+ years
+19,AI,5+ years
+19,react,3+ years
+19,GIT,6+ years
+19,Tableau,1+ years
+19,PHP,7+ years
+20,ASP.NET,3+ years
+20,SOLARIS,0+ years
+20,HTML,10+ years
+20,Linux,10+ years
+20,BitBucket,4+ years
+20,JavaScript,1+ years
+20,Java,9+ years
+21,HTML,1+ years
+21,Project management,8+ years
+21,Tableau,1+ years
+21,Kubernetes,7+ years
+21,C++,2+ years
+21,Excel,2+ years
+22,Hive,9+ years
+22,C++,4+ years
+22,Java,4+ years
+22,C,9+ years
+23,Angular,4+ years
+23,UX Design,1+ years
+23,AI,6+ years
+23,Spring,5+ years
+23,Distributed system,4+ years
+23,ANDROID,9+ years
+23,Hive,0+ years
+24,Distributed system,6+ years
+24,Kubernetes,4+ years
+24,SOLARIS,6+ years
+24,Linux,4+ years
+24,Hive,10+ years
+24,JavaScript,2+ years
+24,react,3+ years
+24,Tableau,8+ years
+25,Excel,1+ years
+25,CSS,9+ years
+25,ASP.NET,3+ years
+25,Devexpress,1+ years
+25,Linux,10+ years
+25,Java,0+ years
+26,Kubernetes,0+ years
+26,TESTING,4+ years
+26,Spring,1+ years
+27,HTML,10+ years
+27,JavaScript,5+ years
+28,C,9+ years
+28,Excel,2+ years
+28,ASP.NET,9+ years
+28,CSS,6+ years
+28,Project management,5+ years
+29,GIT,6+ years
+29,ML,8+ years
+29,ANDROID,9+ years
+29,Hadoop,1+ years
+29,SQL,6+ years
+29,Devexpress,8+ years
+29,Bootstrap,3+ years
+29,react,1+ years
+29,Load balance,2+ years
+29,Angular,10+ years
+29,Redis,9+ years
+29,SOLARIS,3+ years
+30,Java,4+ years
+30,TESTING,7+ years
+30,Kubernetes,9+ years
+31,Jira,4+ years
+31,MySQL,0+ years
+32,Ruby,9+ years
+32,UX Design,3+ years
+32,SQL,1+ years
+32,Tableau,7+ years
+32,Spring,5+ years
+33,ML,2+ years
+33,Hive,3+ years
+34,Python,3+ years
+34,MySQL,8+ years
+34,ANDROID,4+ years
+34,BitBucket,5+ years
+35,MySQL,10+ years
+35,Jira,9+ years
+35,TESTING,0+ years
+35,react,8+ years
+35,ASP.NET,6+ years
+36,Distributed system,7+ years
+36,Hibernate,4+ years
+36,AI,8+ years
+36,C,9+ years
+36,Linux,3+ years
+36,C++,5+ years
+36,Ruby,4+ years
+36,UX Design,0+ years
+36,ASP.NET,9+ years
+37,REST,7+ years
+37,Python,10+ years
+37,BitBucket,4+ years
+37,Kubernetes,6+ years
+37,Devexpress,5+ years
+37,Hibernate,3+ years
+37,SQL,7+ years
+38,Bootstrap,7+ years
+38,Hive,7+ years
+38,Docker,9+ years
+38,XML,0+ years
+39,Project management,5+ years
+39,ASP.NET,10+ years
+39,Java,0+ years
+39,GIT,9+ years
+39,CSS,1+ years
+39,Jira,10+ years
+40,Java,6+ years
+40,redux,8+ years
+40,Bootstrap,8+ years
+40,SOLARIS,2+ years
+40,Python,9+ years
+40,REST,1+ years
+40,C++,9+ years
+40,ASP.NET,3+ years
+40,CSS,8+ years
+41,SQL,9+ years
+41,react,2+ years
+41,Devexpress,1+ years
+41,HTML,5+ years
+41,ASP.NET,10+ years
+41,CSS,8+ years
+41,ML,9+ years
+41,MySQL,10+ years
+41,Data science,2+ years
+42,Python,0+ years
+42,ASP.NET,1+ years
+42,Excel,10+ years
+42,Load balance,5+ years
+43,Hadoop,9+ years
+43,SQL,2+ years
+43,Angular,4+ years
+43,ANDROID,1+ years
+44,Angular,4+ years
+44,SOLARIS,6+ years
+44,GIT,0+ years
+45,ASP.NET,1+ years
+45,Linux,9+ years
+46,JavaScript,0+ years
+46,Hive,0+ years
+46,Data science,8+ years
+46,Java,0+ years
+47,JavaScript,5+ years
+47,ANDROID,9+ years
+47,redux,7+ years
+47,Docker,5+ years
+47,AI,4+ years
+48,Data science,3+ years
+48,AI,4+ years
+48,Load balance,2+ years
+48,Python,1+ years
+48,CSS,1+ years
+48,XML,6+ years
+48,SOLARIS,0+ years
+48,Docker,3+ years
+48,SQL,4+ years
+49,C++,3+ years
+49,JavaScript,10+ years
+49,REST,5+ years
+49,Redis,0+ years
+49,Hadoop,8+ years
+50,AI,0+ years
+50,Redis,9+ years
+50,Java,6+ years
+51,Angular,7+ years
+51,Docker,8+ years
+51,JavaScript,10+ years
+51,C,9+ years
+51,BitBucket,3+ years
+52,BitBucket,9+ years
+52,Kubernetes,1+ years
+52,Linux,7+ years
+52,JavaScript,4+ years
+52,XML,6+ years
+52,SOLARIS,10+ years
+52,Data science,2+ years
+52,MySQL,3+ years
+53,Distributed system,7+ years
+53,C,8+ years
+53,JavaScript,6+ years
+53,Excel,0+ years
+53,Hibernate,3+ years
+54,AI,10+ years
+54,ML,0+ years
+54,Spring,4+ years
+54,MySQL,2+ years
+54,C#,0+ years
+54,GIT,10+ years
+55,redux,10+ years
+55,Python,6+ years
+55,ASP.NET,1+ years
+55,Data science,6+ years
+55,Linux,6+ years
+55,Angular,6+ years
+55,Ruby,0+ years
+56,Tableau,1+ years
+56,PHP,4+ years
+56,Ruby,9+ years
+56,Linux,2+ years
+56,Project management,0+ years
+56,ANDROID,6+ years
+56,HTML,3+ years
+57,Load balance,2+ years
+57,CSS,9+ years
+57,Distributed system,7+ years
+58,ANDROID,1+ years
+58,Angular,7+ years
+59,Azure DevOps,6+ years
+59,Kubernetes,3+ years
+60,UX Design,7+ years
+60,Ruby,6+ years
+60,Spring,6+ years
+60,C++,2+ years
+60,Jira,1+ years
+61,XML,2+ years
+61,Java,3+ years
+61,Hive,8+ years
+61,C++,2+ years
+61,AI,6+ years
+62,Data science,0+ years
+62,Spring,8+ years
+62,Kubernetes,2+ years
+62,BitBucket,3+ years
+62,Hive,6+ years
+63,Jira,3+ years
+63,Angular,6+ years
+63,C#,5+ years
+63,Tableau,2+ years
+63,Java,4+ years
+63,Hibernate,6+ years
+64,XML,6+ years
+64,Bootstrap,6+ years
+64,Jira,5+ years
+64,C,9+ years
+65,Bootstrap,10+ years
+65,REST,1+ years
+66,Hive,5+ years
+66,Linux,4+ years
+66,JavaScript,10+ years
+67,Tableau,2+ years
+67,ML,8+ years
+67,PHP,4+ years
+67,TESTING,3+ years
+67,ASP.NET,7+ years
+68,Load balance,6+ years
+68,REST,8+ years
+68,Kubernetes,2+ years
+68,HTML,2+ years
+69,Docker,1+ years
+69,Python,1+ years
+69,Hibernate,4+ years
+69,ANDROID,0+ years
+69,JavaScript,8+ years
+70,Docker,6+ years
+70,ML,3+ years
+70,Java,2+ years
+70,Devexpress,8+ years
+70,REST,10+ years
+70,SOLARIS,9+ years
+71,C,5+ years
+71,Hive,8+ years
+72,Hibernate,2+ years
+72,Hive,2+ years
+72,Spring,8+ years
+73,Ruby,4+ years
+73,react,9+ years
+73,Excel,3+ years
+73,Hadoop,1+ years
+74,ML,0+ years
+75,C,9+ years
+75,C#,5+ years
+75,TESTING,5+ years
+75,GIT,7+ years
+75,Hibernate,1+ years
+76,REST,0+ years
+76,Project management,10+ years
+76,PHP,2+ years
+76,ML,10+ years
+76,Load balance,5+ years
+76,Bootstrap,3+ years
+76,GIT,5+ years
+77,UX Design,9+ years
+77,Distributed system,1+ years
+77,ANDROID,0+ years
+77,Devexpress,5+ years
+77,ML,0+ years
+78,ML,5+ years
+78,JavaScript,3+ years
+78,PHP,6+ years
+78,Load balance,7+ years
+79,redux,7+ years
+79,Data science,3+ years
+79,Hadoop,8+ years
+79,Load balance,2+ years
+79,Tableau,9+ years
+79,react,4+ years
+79,Distributed system,7+ years
+79,UX Design,6+ years
+79,C#,7+ years
+79,AI,7+ years
+79,ANDROID,7+ years
+80,C#,9+ years
+81,Tableau,3+ years
+81,SOLARIS,6+ years
+81,C++,1+ years
+81,JavaScript,8+ years
+81,XML,2+ years
+81,SQL,9+ years
+81,AI,5+ years
+81,Project management,5+ years
+82,Angular,2+ years
+82,Python,8+ years
+82,SQL,4+ years
+83,CSS,0+ years
+83,Devexpress,0+ years
+83,GIT,1+ years
+83,TESTING,10+ years
+83,ASP.NET,7+ years
+84,Redis,10+ years
+84,Hibernate,0+ years
+84,REST,10+ years
+84,Jira,6+ years
+84,Spring,1+ years
+84,Devexpress,6+ years
+84,Project management,10+ years
+85,ANDROID,1+ years
+85,Redis,9+ years
+85,Angular,3+ years
+85,Java,4+ years
+85,C++,7+ years
+85,MySQL,7+ years
+86,Tableau,9+ years
+86,AI,10+ years
+86,HTML,2+ years
+86,C,3+ years
+86,Hive,7+ years
+86,Linux,10+ years
+86,SOLARIS,7+ years
+87,Docker,3+ years
+87,C#,6+ years
+87,Project management,5+ years
+87,SOLARIS,5+ years
+87,TESTING,2+ years
+87,AI,10+ years
+88,TESTING,4+ years
+88,Java,8+ years
+88,Bootstrap,3+ years
+88,Azure DevOps,6+ years
+88,Hadoop,2+ years
+88,PHP,4+ years
+88,XML,1+ years
+88,Data science,9+ years
+89,react,1+ years
+89,Spring,10+ years
+89,AI,5+ years
+89,Devexpress,1+ years
+89,JavaScript,6+ years
+90,Ruby,0+ years
+90,Bootstrap,10+ years
+90,Kubernetes,3+ years
+90,HTML,7+ years
+90,TESTING,8+ years
+91,XML,7+ years
+91,CSS,9+ years
+91,Data science,8+ years
+91,Docker,10+ years
+92,Kubernetes,3+ years
+92,HTML,4+ years
+92,Spring,9+ years
+92,Devexpress,5+ years
+93,JavaScript,4+ years
+93,Redis,10+ years
+93,Jira,8+ years
+93,Ruby,1+ years
+93,XML,10+ years
+94,C#,6+ years
+94,C,1+ years
+94,Devexpress,10+ years
+94,Load balance,1+ years
+94,Bootstrap,7+ years
+94,Hibernate,7+ years
+94,Tableau,6+ years
+94,Linux,7+ years
+95,Hadoop,10+ years
+95,CSS,0+ years
+95,Distributed system,5+ years
+95,Ruby,10+ years
+96,Azure DevOps,0+ years
+96,Spring,9+ years
+96,Jira,2+ years
+97,Python,0+ years
+97,SQL,7+ years
+97,Hadoop,6+ years
+97,TESTING,3+ years
+97,REST,3+ years
+97,ANDROID,9+ years
+98,Ruby,3+ years
+98,BitBucket,7+ years
+98,Devexpress,4+ years
+98,GIT,4+ years
+98,Docker,7+ years
+98,C#,7+ years
+98,MySQL,4+ years
+98,Tableau,2+ years
+98,Distributed system,6+ years
+98,PHP,7+ years
+98,Azure DevOps,10+ years
+99,CSS,1+ years
+99,TESTING,9+ years
+99,Jira,1+ years
+99,ANDROID,10+ years
+99,Tableau,2+ years
+99,ASP.NET,6+ years
+99,UX Design,5+ years
+100,Spring,6+ years
+100,Project management,5+ years
+101,Excel,0+ years
+101,MySQL,5+ years
+101,XML,8+ years
+101,Spring,6+ years
+101,TESTING,6+ years
+101,Hadoop,6+ years
+101,Kubernetes,5+ years
+101,Bootstrap,10+ years
+101,ML,6+ years
+102,Hibernate,1+ years
+102,Project management,4+ years
+102,C#,9+ years
+102,C++,4+ years
+102,JavaScript,8+ years
+103,C#,4+ years
+103,Azure DevOps,3+ years
+103,MySQL,8+ years
+103,TESTING,8+ years
+103,Docker,2+ years
+103,Data science,5+ years
+103,Spring,5+ years
+103,BitBucket,1+ years
+104,Angular,0+ years
+104,Redis,10+ years
+104,GIT,10+ years
+104,ANDROID,5+ years
+104,Load balance,0+ years
+104,Python,10+ years
+105,Tableau,8+ years
+105,TESTING,6+ years
+105,Bootstrap,8+ years
+105,SQL,7+ years
+106,Spring,8+ years
+106,REST,3+ years
+106,Java,10+ years
+106,GIT,9+ years
+106,SQL,6+ years
+107,Devexpress,8+ years
+107,UX Design,9+ years
+107,Kubernetes,2+ years
+107,react,2+ years
+107,MySQL,9+ years
+108,Redis,9+ years
+108,Spring,2+ years
+108,Load balance,8+ years
+108,PHP,7+ years
+108,Tableau,0+ years
+108,Kubernetes,7+ years
+108,Docker,2+ years
+108,ML,4+ years
+109,C,5+ years
+109,C#,9+ years
+109,Excel,5+ years
+109,SOLARIS,7+ years
+109,redux,3+ years
+110,ASP.NET,1+ years
+110,ML,1+ years
+110,redux,2+ years
+110,Java,1+ years
+110,Azure DevOps,6+ years
+110,C#,1+ years
+110,UX Design,6+ years
+111,PHP,3+ years
+111,Hibernate,0+ years
+111,Azure DevOps,0+ years
+111,redux,0+ years
+111,react,9+ years
+112,MySQL,10+ years
+113,redux,3+ years
+113,CSS,9+ years
+113,Ruby,4+ years
+114,Hadoop,8+ years
+114,SQL,1+ years
+114,Redis,3+ years
+115,CSS,3+ years
+115,Data science,3+ years
+115,Azure DevOps,3+ years
+115,Hibernate,7+ years
+115,Redis,6+ years
+115,TESTING,0+ years
+116,HTML,2+ years
+116,BitBucket,10+ years
+116,Spring,7+ years
+116,UX Design,7+ years
+116,TESTING,7+ years
+116,Data science,5+ years
+116,CSS,9+ years
+117,Hibernate,9+ years
+117,REST,9+ years
+117,UX Design,2+ years
+117,AI,5+ years
+117,Angular,6+ years
+117,Distributed system,0+ years
+118,ANDROID,4+ years
+118,Angular,8+ years
+118,Ruby,3+ years
+118,Redis,6+ years
+119,Jira,6+ years
+119,Distributed system,8+ years
+119,MySQL,3+ years
+119,Linux,5+ years
+119,BitBucket,10+ years
+120,Spring,4+ years
+120,redux,9+ years
+120,Hibernate,7+ years
+120,HTML,9+ years
+121,TESTING,2+ years
+121,Bootstrap,8+ years
+121,Data science,5+ years
+121,Distributed system,1+ years
+121,UX Design,0+ years
+122,XML,1+ years
+122,redux,6+ years
+122,Ruby,10+ years
+122,BitBucket,7+ years
+122,Azure DevOps,8+ years
+122,Kubernetes,2+ years
+122,Distributed system,7+ years
+122,C#,1+ years
+123,Python,6+ years
+123,HTML,6+ years
+123,UX Design,10+ years
+123,ANDROID,5+ years
+123,Ruby,10+ years
+123,SQL,2+ years
+123,C#,6+ years
+124,Devexpress,4+ years
+124,Kubernetes,6+ years
+124,XML,0+ years
+124,Tableau,4+ years
+124,Linux,3+ years
+124,Azure DevOps,4+ years
+125,JavaScript,1+ years
+125,Hadoop,10+ years
+125,Linux,10+ years
+125,C,9+ years
+125,Ruby,9+ years
+125,CSS,6+ years
+125,Hibernate,0+ years
+125,SQL,0+ years
+125,redux,5+ years
+126,Tableau,2+ years
+126,Ruby,9+ years
+126,Docker,1+ years
+126,Bootstrap,0+ years
+127,Hibernate,4+ years
+127,MySQL,2+ years
+127,Tableau,7+ years
+127,Bootstrap,10+ years
+127,UX Design,4+ years
+127,SOLARIS,8+ years
+128,Bootstrap,0+ years
+128,Java,3+ years
+128,Hadoop,7+ years
+129,ML,1+ years
+129,react,8+ years
+129,Docker,7+ years
+129,JavaScript,7+ years
+129,C++,7+ years
+129,Excel,3+ years
+130,react,10+ years
+130,Data science,10+ years
+130,C,0+ years
+130,CSS,5+ years
+131,Linux,2+ years
+131,Kubernetes,6+ years
+131,ASP.NET,9+ years
+131,Docker,5+ years
+132,PHP,5+ years
+132,Jira,2+ years
+132,Project management,4+ years
+132,ANDROID,1+ years
+132,REST,4+ years
+132,Kubernetes,10+ years
+132,GIT,3+ years
+132,HTML,1+ years
+133,Linux,0+ years
+133,redux,9+ years
+133,Ruby,1+ years
+133,Tableau,8+ years
+133,HTML,2+ years
+134,Data science,1+ years
+134,redux,2+ years
+134,C++,5+ years
+134,Hadoop,0+ years
+134,Python,2+ years
+135,Bootstrap,3+ years
+135,Project management,1+ years
+136,SOLARIS,4+ years
+137,PHP,3+ years
+137,Hive,3+ years
+137,C,2+ years
+137,Angular,2+ years
+137,react,2+ years
+137,Devexpress,0+ years
+138,Distributed system,1+ years
+138,Spring,2+ years
+139,GIT,6+ years
+139,Jira,0+ years
+139,Devexpress,2+ years
+139,Hibernate,2+ years
+140,BitBucket,6+ years
+140,HTML,7+ years
+140,AI,2+ years
+140,ML,5+ years
+140,Docker,4+ years
+141,Azure DevOps,9+ years
+141,BitBucket,0+ years
+141,Redis,0+ years
+142,JavaScript,2+ years
+142,SQL,4+ years
+142,PHP,8+ years
+142,Project management,5+ years
+142,MySQL,10+ years
+142,C#,3+ years
+142,Bootstrap,10+ years
+143,MySQL,9+ years
+143,Excel,8+ years
+143,SOLARIS,2+ years
+144,GIT,0+ years
+144,Load balance,3+ years
+144,CSS,4+ years
+144,Hadoop,8+ years
+145,Tableau,0+ years
+146,Load balance,3+ years
+146,Ruby,8+ years
+146,C,1+ years
+146,redux,4+ years
+147,Tableau,2+ years
+148,Angular,0+ years
+148,C,10+ years
+148,PHP,6+ years
+148,SQL,4+ years
+148,Tableau,9+ years
+149,Java,4+ years
+149,XML,4+ years
+149,ASP.NET,1+ years
+149,GIT,0+ years
+149,REST,6+ years
+149,Angular,9+ years
+149,Load balance,10+ years
+149,PHP,8+ years
+150,C++,5+ years
+150,TESTING,6+ years
+150,SQL,10+ years
+150,Angular,8+ years
+151,C++,5+ years
+151,Java,5+ years
+151,Azure DevOps,10+ years
+151,UX Design,6+ years
+151,XML,2+ years
+151,Redis,8+ years
+152,GIT,8+ years
+152,BitBucket,2+ years
+153,Angular,4+ years
+153,JavaScript,7+ years
+153,Azure DevOps,5+ years
+153,BitBucket,9+ years
+153,TESTING,9+ years
+153,Excel,2+ years
+153,C++,4+ years
+154,SOLARIS,1+ years
+154,REST,8+ years
+154,Distributed system,2+ years
+154,Linux,9+ years
+155,C++,5+ years
+155,Hadoop,6+ years
+155,SQL,3+ years
+155,Azure DevOps,3+ years
+156,Data science,9+ years
+156,C#,6+ years
+156,REST,4+ years
+156,Azure DevOps,5+ years
+156,ANDROID,7+ years
+157,Java,8+ years
+157,C++,3+ years
+157,Kubernetes,2+ years
+157,Hadoop,7+ years
+157,ASP.NET,10+ years
+157,Bootstrap,7+ years
+158,C++,9+ years
+158,SQL,3+ years
+158,Jira,0+ years
+158,SOLARIS,6+ years
+159,MySQL,8+ years
+159,Azure DevOps,2+ years
+159,ANDROID,0+ years
+159,REST,8+ years
+159,BitBucket,4+ years
+159,Spring,0+ years
+160,Docker,1+ years
+161,Linux,4+ years
+162,HTML,10+ years
+162,Hive,9+ years
+162,Bootstrap,0+ years
+162,react,8+ years
+163,UX Design,3+ years
+163,Ruby,7+ years
+163,Project management,6+ years
+163,BitBucket,3+ years
+163,Java,3+ years
+164,Jira,6+ years
+164,redux,1+ years
+164,Angular,0+ years
+164,Spring,5+ years
+165,C,8+ years
+165,C++,1+ years
+165,CSS,1+ years
+165,Data science,7+ years
+165,ASP.NET,0+ years
+165,BitBucket,0+ years
+165,redux,1+ years
+165,GIT,3+ years
+166,SOLARIS,8+ years
+166,GIT,4+ years
+166,C++,9+ years
+166,Hibernate,7+ years
+166,Devexpress,0+ years
+168,Redis,1+ years
+168,Azure DevOps,7+ years
+168,C#,0+ years
+168,Jira,8+ years
+168,Python,0+ years
+169,SQL,9+ years
+169,PHP,1+ years
+169,MySQL,6+ years
+169,CSS,4+ years
+170,SQL,6+ years
+170,Hive,5+ years
+170,Spring,1+ years
+170,react,10+ years
+170,ML,9+ years
+171,Jira,10+ years
+171,AI,2+ years
+171,CSS,1+ years
+171,ASP.NET,10+ years
+171,Python,2+ years
+172,Bootstrap,3+ years
+172,Hive,5+ years
+173,Hadoop,8+ years
+173,Linux,0+ years
+173,PHP,2+ years
+174,SQL,7+ years
+174,C#,9+ years
+174,MySQL,3+ years
+174,C,2+ years
+174,Hibernate,2+ years
+174,Load balance,6+ years
+174,Python,7+ years
+174,HTML,6+ years
+174,Azure DevOps,7+ years
+175,Docker,8+ years
+175,BitBucket,10+ years
+175,Data science,10+ years
+176,Bootstrap,6+ years
+176,redux,9+ years
+176,Excel,10+ years
+177,Distributed system,7+ years
+177,Hive,9+ years
+177,ANDROID,4+ years
+177,C#,9+ years
+177,MySQL,4+ years
+177,Data science,3+ years
+177,C++,2+ years
+178,XML,3+ years
+178,Load balance,8+ years
+178,Project management,4+ years
+179,UX Design,7+ years
+179,SOLARIS,10+ years
+179,Azure DevOps,10+ years
+179,Distributed system,0+ years
+179,Hibernate,10+ years
+179,Angular,8+ years
+180,PHP,6+ years
+180,Hibernate,0+ years
+181,BitBucket,10+ years
+181,Data science,9+ years
+181,Redis,9+ years
+182,GIT,6+ years
+182,Ruby,10+ years
+182,SOLARIS,7+ years
+182,Hive,1+ years
+182,XML,7+ years
+183,Angular,1+ years
+184,Hive,6+ years
+184,Project management,10+ years
+184,Redis,8+ years
+184,Data science,8+ years
+184,XML,3+ years
+185,SOLARIS,4+ years
+185,Project management,6+ years
+185,Java,4+ years
+185,JavaScript,9+ years
+185,Angular,1+ years
+185,Redis,6+ years
+186,Linux,9+ years
+186,Devexpress,8+ years
+186,C,5+ years
+186,Excel,9+ years
+186,ASP.NET,4+ years
+186,Azure DevOps,4+ years
+186,Bootstrap,4+ years
+187,C++,6+ years
+187,BitBucket,10+ years
+187,Load balance,9+ years
+187,XML,6+ years
+187,Kubernetes,9+ years
+187,redux,7+ years
+188,ANDROID,0+ years
+188,HTML,2+ years
+188,react,1+ years
+188,Jira,1+ years
+188,Python,4+ years
+189,REST,6+ years
+189,SQL,10+ years
+189,react,5+ years
+190,C#,4+ years
+190,Excel,4+ years
+190,react,5+ years
+190,C++,1+ years
+190,HTML,1+ years
+191,REST,10+ years
+191,AI,5+ years
+191,XML,5+ years
+191,Linux,2+ years
+191,Devexpress,1+ years
+191,Distributed system,5+ years
+191,Python,0+ years
+192,Ruby,4+ years
+192,MySQL,2+ years
+192,C,2+ years
+192,Java,1+ years
+193,Kubernetes,4+ years
+193,Excel,3+ years
+193,Redis,0+ years
+193,ML,9+ years
+193,Distributed system,9+ years
+193,XML,5+ years
+193,Devexpress,4+ years
+194,ML,7+ years
+194,Load balance,7+ years
+194,Hadoop,8+ years
+194,Jira,5+ years
+195,Distributed system,4+ years
+195,AI,7+ years
+195,C++,1+ years
+196,Angular,3+ years
+196,Hadoop,2+ years
+196,C#,10+ years
+196,TESTING,1+ years
+196,Azure DevOps,9+ years
+196,REST,7+ years
+196,Distributed system,3+ years
+197,ML,10+ years
+197,Ruby,8+ years
+198,Python,4+ years
+198,Devexpress,5+ years
+198,C,7+ years
+198,Hibernate,2+ years
+199,Devexpress,6+ years
+199,HTML,6+ years
+200,Redis,7+ years
+200,Data science,4+ years
+200,XML,1+ years
+200,PHP,3+ years
+200,Linux,0+ years
+200,Python,9+ years
+200,redux,0+ years
+200,Docker,9+ years
+200,Angular,0+ years
+200,GIT,10+ years

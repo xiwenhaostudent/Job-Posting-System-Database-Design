@@ -1,0 +1,201 @@
+institution,Degree,major,activity,fromYear,toYear,description,profileID,grade
+Arizona State University,Master,Election Engineer,,2001,2005,,80,3.82
+Arizona State University,Phd,Economics,,2001,2005,,173,3.07
+Australian National University,Bachelor,Computer Science,,2006,2010,,196,3.67
+Boston University,Bachelor,Finance,,2002,2006,,62,3.2
+Boston University,Bachelor,Computer Science,,2005,2009,,154,3.17
+Brown University,Master,Marketing,,2005,2009,,66,3.48
+Brown University,Master,Information System,,2005,2009,,177,3.72
+California Institute of Technology,Bachelor,Marketing,,2005,2009,,5,3.65
+California Institute of Technology,Bachelor,Information System,,2002,2006,,111,3.88
+Carnegie Mellon University,Bachelor,Finance,,2001,2005,,43,3.6
+Carnegie Mellon University,Phd,Economics,,2004,2008,,151,3.84
+Case Western Reserve University,Bachelor,Information System,,2002,2006,,78,3.55
+Columbia University,Master,Election Engineer,,2002,2006,,9,3.8
+Columbia University,Master,Marketing,,2003,2007,,106,3.53
+Cornell University,Master,Marketing,,2001,2005,,12,3.78
+Cornell University,Bachelor,Computer Science,,2006,2010,,113,3.74
+Dartmouth College,Master,Information System,,2002,2006,,58,3.7
+Dartmouth College,Bachelor,Computer Science,,2005,2009,,182,3.56
+Duke University,Master,Information System,,2004,2008,,27,3.46
+Duke University,Phd,Finance,,2004,2008,,125,3.06
+??cole normale sup??rieure - Paris,Phd,Information System,,2004,2008,,54,3.22
+??cole normale sup??rieure - Paris,Phd,Computer Science,,2006,2010,,164,3.37
+??cole Polytechnique,Master,Finance,,2006,2010,,61,3.14
+??cole Polytechnique,Phd,Computer Science,,2005,2009,,186,3.24
+Emory University,Master,Election Engineer,,2001,2005,,81,3.78
+Emory University,Bachelor,Economics,,2005,2009,,193,3.42
+Georgia Institute of Technology,Bachelor,Finance,,2006,2010,,87,3.97
+Georgia Institute of Technology,Bachelor,Economics,,2002,2006,,200,3.49
+Harvard University,Bachelor,Election Engineer,,2005,2009,,1,3.48
+Harvard University,Bachelor,Computer Science,,2006,2010,,101,3.38
+Hebrew University of Jerusalem,Phd,Finance,,2006,2010,,22,3.58
+Hebrew University of Jerusalem,Bachelor,Election Engineer,,2004,2008,,121,3.61
+Imperial College London,Phd,Information System,,2005,2009,,28,3.79
+Imperial College London,Master,Finance,,2002,2006,,127,3.14
+Indiana University - Bloomington,Phd,Computer Science,,2005,2009,,185,3.36
+Johns Hopkins University,Master,Information System,,2005,2009,,15,3.13
+Johns Hopkins University,Phd,Marketing,,2006,2010,,117,3.29
+Karolinska Institute,Master,Marketing,,2003,2007,,70,3.95
+Karolinska Institute,Bachelor,Information System,,2006,2010,,160,3.4
+Keio University,Bachelor,Information System,,2006,2010,,170,3.42
+King's College London,Master,Marketing,,2001,2005,,175,3.45
+Kyoto University,Master,Information System,,2002,2006,,17,3.88
+Kyoto University,Master,Computer Science,,2004,2008,,115,3.23
+Leiden University,Bachelor,Election Engineer,,2002,2006,,85,3.65
+Lomonosov Moscow State University,Bachelor,Economics,,2003,2007,,190,3.87
+Ludwig Maximilian University of Munich,Bachelor,Finance,,2005,2009,,83,3.8
+Ludwig Maximilian University of Munich,Phd,Computer Science,,2001,2005,,167,3.63
+Massachusetts Institute of Technology,Master,Finance,,2001,2005,,2,3.2
+Massachusetts Institute of Technology,Master,Marketing,,2003,2007,,104,3.78
+McGill University,Master,Finance,,2003,2007,,41,3.68
+McGill University,Master,Computer Science,,2006,2010,,147,3.49
+Mines ParisTech,Bachelor,Computer Science,,2006,2010,,100,3.63
+Nagoya University,Bachelor,Marketing,,2001,2005,,74,4
+Nagoya University,Phd,Marketing,,2005,2009,,191,3.98
+National University of Singapore,Bachelor,Computer Science,,2005,2009,,187,3.95
+New York University,Bachelor,Finance,,2006,2010,,23,3.81
+New York University,Bachelor,Computer Science,,2006,2010,,119,3.31
+Northwestern University,Master,Computer Science,,2001,2005,,33,3.6
+Northwestern University,Phd,Election Engineer,,2003,2007,,128,3.32
+Ohio State University  Columbus,Master,Information System,,2005,2009,,52,3.36
+Ohio State University  Columbus,Bachelor,Economics,,2003,2007,,152,3.09
+Osaka University,Master,Information System,,2004,2008,,32,3.57
+Osaka University,Phd,Computer Science,,2005,2009,,135,3.55
+Paris Diderot University - Paris 7,Master,Economics,,2006,2010,,199,3.66
+Pennsylvania State University  University Park,Master,Computer Science,,2001,2005,,64,3.14
+Pennsylvania State University  University Park,Master,Economics,,2006,2010,,150,3.68
+Pierre-and-Marie-Curie University,Master,Information System,,2001,2005,,63,3.99
+Pierre-and-Marie-Curie University,Master,Computer Science,,2002,2006,,148,3.96
+Princeton University,Bachelor,Marketing,,2002,2006,,6,3.33
+Princeton University,Master,Computer Science,,2002,2006,,108,3.55
+Purdue University  West Lafayette,Phd,Finance,,2006,2010,,42,3.17
+Purdue University  West Lafayette,Bachelor,Finance,,2003,2007,,138,3.48
+Rice University,Bachelor,Election Engineer,,2006,2010,,57,3.95
+Rice University,Master,Economics,,2006,2010,,194,3.89
+Rockefeller University,Bachelor,Finance,,2005,2009,,21,3.46
+Rockefeller University,Master,Computer Science,,2002,2006,,149,3.92
+Ruprecht Karl University of Heidelberg,Bachelor,Finance,,2005,2009,,82,3.8
+Ruprecht Karl University of Heidelberg,Bachelor,Computer Science,,2002,2006,,179,3.06
+Rutgers University-New Brunswick,Bachelor,Marketing,,2006,2010,,72,3.82
+Rutgers University-New Brunswick,Bachelor,Information System,,2004,2008,,143,3.37
+Sapienza University of Rome,Bachelor,Computer Science,,2004,2008,,77,3.27
+Sapienza University of Rome,Bachelor,Analytics,,2005,2009,,162,3.03
+Seoul National University,Bachelor,Finance,,2006,2010,,75,3
+Seoul National University,Bachelor,Economics,,2003,2007,,140,3.69
+Stanford University,Master,Computer Science,,2004,2008,,3,3.66
+Stanford University,Phd,Computer Science,,2006,2010,,102,3.08
+Stony Brook University,Bachelor,Economics,,2004,2008,,189,3.04
+Swiss Federal Institute of Technology in Lausanne,Phd,Election Engineer,,2004,2008,,69,3.21
+Swiss Federal Institute of Technology in Lausanne,Bachelor,Economics,,2002,2006,,183,3.82
+Swiss Federal Institute of Technology in Zurich,Bachelor,Information System,,2006,2010,,16,3.14
+Swiss Federal Institute of Technology in Zurich,Master,Computer Science,,2005,2009,,118,3.14
+Technical University of Munich,Bachelor,Finance,,2003,2007,,90,3.8
+Technion ?€? Israel Institute of Technology,Phd,Election Engineer,,2006,2010,,51,3.42
+Technion ?€? Israel Institute of Technology,Phd,Computer Science,,2005,2009,,166,3.37
+Tel Aviv University,Master,Information System,,2004,2008,,56,3.87
+Tel Aviv University,Bachelor,Finance,,2003,2007,,157,3.82
+Texas A&M University  College Station,Bachelor,Computer Science,,2006,2010,,73,3.38
+Texas A&M University  College Station,Bachelor,Computer Science,,2004,2008,,180,3.86
+Tohoku University,Master,Election Engineer,,2002,2006,,79,3.75
+Tohoku University,Master,Economics,,2003,2007,,195,3.65
+Tufts University,Bachelor,Finance,,2004,2008,,86,3
+University College London,Master,Election Engineer,,2004,2008,,31,3.09
+University College London,Master,Computer Science,,2001,2005,,130,3.44
+University of Alberta,Master,Computer Science,,2006,2010,,197,3.42
+University of Arizona,Bachelor,Marketing,,2004,2008,,50,3.9
+University of Arizona,Bachelor,Marketing,,2002,2006,,178,3.83
+University of Bristol,Bachelor,Marketing,,2001,2005,,98,3.07
+University of British Columbia,Phd,Information System,,2003,2007,,67,3.11
+University of British Columbia,Phd,Analytics,,2003,2007,,158,3.13
+University of California  Berkeley,Master,Marketing,,2002,2006,,10,3.48
+University of California  Berkeley,Master,Computer Science,,2004,2008,,107,3.24
+University of California  Davis,Bachelor,Finance,,2003,2007,,45,3.24
+University of California  Davis,Bachelor,Computer Science,,2004,2008,,153,3.53
+University of California  Irvine,Phd,Computer Science,,2006,2010,,47,3.16
+University of California  Irvine,Master,Analytics,,2004,2008,,165,3.02
+University of California  Los Angeles,Bachelor,Information System,,2005,2009,,19,3.41
+University of California  Los Angeles,Phd,Marketing,,2001,2005,,116,3.21
+University of California  San Diego,Bachelor,Information System,,2005,2009,,20,3.47
+University of California  San Diego,Bachelor,Computer Science,,2005,2009,,120,3.53
+University of California  San Francisco,Master,Computer Science,,2004,2008,,24,3.31
+University of California  San Francisco,Bachelor,Finance,,2005,2009,,122,3.82
+University of California  Santa Barbara,Bachelor,Finance,,2002,2006,,40,3.42
+University of California  Santa Barbara,Master,Marketing,,2001,2005,,137,3.96
+University of Cambridge,Bachelor,Finance,,2003,2007,,4,3.94
+University of Cambridge,Master,Marketing,,2005,2009,,105,3.82
+University of Chicago,Master,Marketing,,2005,2009,,11,3.16
+University of Chicago,Master,Information System,,2002,2006,,109,3.97
+University of Colorado Boulder,Bachelor,Finance,,2004,2008,,46,3.82
+University of Colorado Boulder,Bachelor,Finance,,2005,2009,,141,3.43
+University of Copenhagen,Phd,Information System,,2002,2006,,93,3.71
+University of Copenhagen,Bachelor,Economics,,2002,2006,,168,3.82
+University of Edinburgh,Bachelor,Election Engineer,,2002,2006,,60,3.03
+University of Edinburgh,Master,Information System,,2006,2010,,145,3.37
+University of Florida,Bachelor,Computer Science,,2004,2008,,55,3.53
+University of Florida,Bachelor,Marketing,,2003,2007,,155,3.94
+University of Geneva,Bachelor,Information System,,2005,2009,,65,3.62
+University of Geneva,Bachelor,Analytics,,2001,2005,,156,3.88
+University of Helsinki,Bachelor,Finance,,2002,2006,,89,3.82
+University of Helsinki,Bachelor,Computer Science,,2002,2006,,198,3.46
+University of Illinois at Urbana?€?Champaign,Master,Election Engineer,,2002,2006,,26,3.92
+University of Illinois at Urbana?€?Champaign,Bachelor,Finance,,2002,2006,,124,3.65
+University of Manchester,Bachelor,Finance,,2005,2009,,76,3.84
+University of Manchester,Bachelor,Marketing,,2005,2009,,172,3.94
+University of Maryland  College Park,Master,Information System,,2002,2006,,68,3.69
+University of Maryland  College Park,Phd,Information System,,2004,2008,,159,3.4
+University of Michigan  Ann Arbor,Bachelor,Information System,,2005,2009,,34,3.58
+University of Michigan  Ann Arbor,Bachelor,Economics,,2005,2009,,132,3.35
+University of Minnesota  Twin Cities,Phd,Marketing,,2005,2009,,49,3.18
+University of Minnesota  Twin Cities,Phd,Information System,,2003,2007,,144,3.16
+University of North Carolina at Chapel Hill,Phd,Election Engineer,,2004,2008,,36,3.44
+University of North Carolina at Chapel Hill,Master,Computer Science,,2002,2006,,134,3.94
+University of Nottingham,Phd,Marketing,,2001,2005,,97,3.63
+University of Oslo,Bachelor,Election Engineer,,2001,2005,,91,3.64
+University of Oslo,Bachelor,Computer Science,,2002,2006,,181,3.75
+University of Oxford,Bachelor,Computer Science,,2001,2005,,7,3.05
+University of Oxford,Phd,Marketing,,2002,2006,,103,3.65
+University of Paris-Sud,Master,Marketing,,2006,2010,,48,3.72
+University of Paris-Sud,Master,Marketing,,2003,2007,,136,3.18
+University of Pennsylvania,Master,Marketing,,2006,2010,,13,3.67
+University of Pennsylvania,Bachelor,Information System,,2002,2006,,112,3.52
+University of Pittsburgh - Pittsburgh Campus,Bachelor,Election Engineer,,2004,2008,,71,3.09
+University of Pittsburgh - Pittsburgh Campus,Bachelor,Information System,,2002,2006,,169,3.1
+University of Queensland,Bachelor,Election Engineer,,2001,2005,,92,3.24
+University of Rochester,Master,Election Engineer,,2002,2006,,53,3.42
+University of Rochester,Phd,Information System,,2003,2007,,176,3.45
+University of Southern California,Phd,Finance,,2006,2010,,44,3.51
+University of Southern California,Bachelor,Finance,,2004,2008,,139,3.32
+University of Sydney,Phd,Election Engineer,,2004,2008,,94,3.8
+University of Sydney,Master,Economics,,2006,2010,,192,3.33
+University of Texas at Austin,Phd,Information System,,2002,2006,,30,3.72
+University of Texas at Austin,Master,Computer Science,,2006,2010,,126,3.05
+University of Texas MD Anderson Cancer Center,Phd,Computer Science,,2004,2008,,96,3.42
+University of Texas MD Anderson Cancer Center,Bachelor,Computer Science,,2002,2006,,188,3.3
+University of Texas Southwestern Medical Center,Bachelor,Computer Science,,2003,2007,,29,3.8
+University of Texas Southwestern Medical Center,Master,Information System,,2005,2009,,146,3.93
+University of Tokyo,Master,Information System,,2001,2005,,14,3.85
+University of Tokyo,Master,Computer Science,,2002,2006,,114,3.36
+University of Toronto,Bachelor,Information System,,2002,2006,,35,3.39
+University of Toronto,Phd,Finance,,2004,2008,,129,3.09
+University of Utah,Phd,Information System,,2004,2008,,38,3.94
+University of Utah,Bachelor,Economics,,2004,2008,,142,3.77
+University of Virginia,Bachelor,Election Engineer,,2005,2009,,84,3.87
+University of Virginia,Bachelor,Information System,,2005,2009,,171,3.48
+University of Washington - Seattle,Phd,Computer Science,,2005,2009,,39,3.55
+University of Washington - Seattle,Master,Computer Science,,2002,2006,,131,3.84
+University of Wisconsin?€?Madison,Bachelor,Information System,,2004,2008,,25,3.86
+University of Wisconsin?€?Madison,Bachelor,Election Engineer,,2003,2007,,123,3.42
+University of Zurich,Phd,Computer Science,,2001,2005,,88,3.67
+University of Zurich,Phd,Information System,,2005,2009,,174,3.17
+Utrecht University,Master,Computer Science,,2002,2006,,99,3.44
+Utrecht University,Phd,Computer Science,,2001,2005,,184,3.75
+Vanderbilt University,Master,Information System,,2003,2007,,59,3.97
+Vanderbilt University,Bachelor,Finance,,2002,2006,,161,3.86
+Washington University in St. Louis,Bachelor,Information System,,2006,2010,,37,3.15
+Washington University in St. Louis,Master,Computer Science,,2005,2009,,163,3.17
+Weizmann Institute of Science,Master,Computer Science,,2001,2005,,18,3.46
+Weizmann Institute of Science,Bachelor,Computer Science,,2006,2010,,133,3.09
+Williams College,Bachelor,Information System,,2004,2008,,95,4
+Yale University,Bachelor,Marketing,,2004,2008,,8,3
+Yale University,Bachelor,Election Engineer,,2003,2007,,110,3.82
